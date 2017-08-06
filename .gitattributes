@@ -1,2 +1,6 @@
 *.mov filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
+map-demo.mp4 filter=lfs diff=lfs merge=lfs -text
+supernova-surface-demo.mov filter=lfs diff=lfs merge=lfs -text
+files/map-demo.mp4 filter=lfs diff=lfs merge=lfs -text
+files/supernova-surface-demo.mp4 filter=lfs diff=lfs merge=lfs -text
